@@ -20,10 +20,14 @@ Selenium WebDriver: Integrated via Maven dependencies.
 TestNG: Integrated via Maven dependencies.
 
 An IDE: Such as IntelliJ IDEA or Eclipse for writing and running the tests.
-Key Test Cases
+# Key Test Cases
 1.	CHECk_CV_ANALTSIS
-2.	Vailiduser_invailid_password
-3.	blanck_input
-4.	invailiduser_validpassword
-5.	invaliduser_invalidpassword
+2.	Login_with_Vailiduser_invailid_password
+3.	Login_with_blanck_input
+4.	Login_with_invailiduser_validpassword
+5.	Login_with_invaliduser_invalidpassword
 6.	login_with_valid_id_pass
+	
+	# Testng Report
+file:///E:/Java%20class/GERMANYIS_CALLING/test-output/index.html#
+
